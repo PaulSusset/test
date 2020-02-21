@@ -1,1 +1,4 @@
-console.log('love')
+console.log('love');
+const myFunc = () => {
+    // love sharon
+};
